@@ -1,6 +1,7 @@
+import openai
 import streamlit as st
 import requests
-from openai import OpenAI
+#from openai import OpenAI
 from prompt import generate_system_prompt, generate_user_prompt  # 👈 imported prompt logic
 
 # 🎧 Songkick API Key (Hardcoded) ⚠️
