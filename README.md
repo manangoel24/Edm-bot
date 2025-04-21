@@ -31,12 +31,11 @@ This project combines the power of large language models with real-time event da
 
 ### 🔧 Installation
 
-# Clone the repository
-git clone https://github.com/yourusername/edm-festival-chatbot.git
-cd edm-festival-chatbot
-
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the application
 streamlit run main.py
+
+### Usage 
+Open the application in your web browser : https://edmbot.streamlit.app/
