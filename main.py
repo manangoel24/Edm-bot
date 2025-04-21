@@ -41,7 +41,7 @@ def get_upcoming_edmtrain_festivals():
 with st.sidebar:
     st.header("🎧 EDM Festival Chatbot Settings")
     openai_api_key = st.text_input("Enter OpenAI API Key", type="password")
-    st.markdown("[Get an OpenAI API key](https://platform.openai.com/account/api-keys)")
+    #st.markdown("[Get an OpenAI API key](https://platform.openai.com/account/api-keys)")
     st.markdown("[Get an EDMTrain API Key](https://edmtrain.com/api)")
 
 # Title & Welcome
